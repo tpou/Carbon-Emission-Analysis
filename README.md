@@ -25,10 +25,21 @@ SELECT * FROM product_emissions LIMIT 3;
 SELECT * FROM companies LIMIT 3;
 ```
 
-
-
 | id | company_name               | 
 | -: | -------------------------: | 
 | 1  | "Autodesk, Inc."           | 
 | 2  | "Casio Computer Co., Ltd." | 
 | 3  | "Cisco Systems, Inc."      |         
+
+### Table `'industry_groups'`
+
+```
+SELECT * FROM industry_groups LIMIT 3;
+```
+
+
+| id | industry_group                                                         | 
+| -: | ---------------------------------------------------------------------: | 
+| 1  | "Consumer Durables, Household and Personal Products"                   | 
+| 2  | "Food, Beverage & Tobacco"                                             | 
+| 3  | "Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber" |      
