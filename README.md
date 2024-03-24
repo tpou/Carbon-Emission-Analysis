@@ -361,3 +361,21 @@ Among the industries with decreasing emissions levels, the following can be high
 * **Commercial & Professional Services**
 * **Media**
 * **Food & Staples Retailing** (Suspiciously sharp decrease, potential data error)
+
+### Insights and patterns
+During the dataset exploration, the following facts and patterns were identified:
+
+* The products with the highest levels of carbon emissions are **typically associated with heavy industry**.
+* The products with the highest levels of carbon emissions come **from the following industrial sectors**:
+  1. Electrical Equipment and Machinery.
+  2. Automobiles & Components
+  3. Materials
+* The following car models are leading in carbon emissions during production: **Land Cruiser Prado**, **Mercedes-Benz GLA**, **Mercedes-Benz S-Class**, and **Mercedes-Benz SL**
+* One of the leading industries (7th place) is **"Pharmaceuticals, Biotechnology & Life Sciences"**. Now we know what our health comes at.
+* Most of the countries with the highest contribution to carbon emissions are **located on the European continent**, indicating that, on average, air quality in Europe is lower than in other continents.
+* According to the data, there was a **significant spike in carbon emissions levels in the year 2015**.
+* Following 2015, we observe **a downward trend**, albeit with emissions levels **remaining higher than those prior to 2015**.
+* Among the industries with **decreasing emissions levels**, the following can be highlighted:
+  1. Commercial & Professional Services
+  2. Media
+  3. Food & Staples Retailing (Suspiciously sharp decrease, potential data error)
